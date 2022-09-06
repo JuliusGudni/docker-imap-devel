@@ -12,6 +12,6 @@ services:
     - "143:143"
     - "993:993"
     environment:
-    - MAILNAME=example.org
-    - MAIL_ADDRESS=address@example.org
-    - MAIL_PASS=pass
+    - MAILNAME=emotepaster.app
+    - MAIL_ADDRESS=imap@emotepaster.app
+    - MAIL_PASS=password1234
